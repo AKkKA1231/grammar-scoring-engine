@@ -1,6 +1,6 @@
 import voice_app
 from data_utils import load_jfleg_dataset, generate_csv
-from grammer_score import grammar_score
+from grammar_score import grammar_score
 from model_utils import train_eval_model
 from inference import correct_text
 
